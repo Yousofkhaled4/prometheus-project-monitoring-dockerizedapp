@@ -1,3 +1,5 @@
+<img width="721" height="346" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/d18c52fd-e79b-4eb6-b4aa-e7ec945347b5" />![Uploading Untit![th](https://github.com/user-attachments/assets/9a4ea51a-281e-4404-8fcd-8bc9b839235b)led Diagram.drawio.png…]()
+
 # Prometheus Monitoring Stack on AWS
 
 ## 📌 Project Overview
