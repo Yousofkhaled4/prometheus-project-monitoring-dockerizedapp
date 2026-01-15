@@ -1,7 +1,6 @@
-<img width="721" height="346" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/d18c52fd-e79b-4eb6-b4aa-e7ec945347b5" />![Uploading Untit![th](https://github.com/user-attachments/assets/9a4ea51a-281e-4404-8fcd-8bc9b839235b)led Diagram.drawio.png…]()
+<img width="721" height="346" alt="Prom" src="https://github.com/user-attachments/assets/519582e8-a468-4009-8df5-76aa8e76f143" />
 
-# Prometheus Monitoring Stack on AWS
-
+# Prometheus Monitoring Stackon AWS
 ## 📌 Project Overview
 
 This project demonstrates a **real-world end-to-end monitoring solution** using **Prometheus** to monitor multiple layers of a cloud-based system deployed on **AWS EC2**.
